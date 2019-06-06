@@ -16,7 +16,7 @@ Steps to Run the Project:
     
       if it shows the version , it means rust is installed on the computer.
       
-3. Clone the git repository https://github.com/krahul84/ConnectFour
+3. Clone the git repository https://github.com/punam173/CONNECT_FOUR
 
 4. Unzip the folder downloaded by cloning.
 
